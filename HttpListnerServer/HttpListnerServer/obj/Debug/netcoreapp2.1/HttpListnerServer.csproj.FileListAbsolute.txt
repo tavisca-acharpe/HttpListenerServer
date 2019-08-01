@@ -1,0 +1,11 @@
+C:\Users\acharpe\source\repos\HttpListnerServer\HttpListnerServer\bin\Debug\netcoreapp2.1\HttpListnerServer.deps.json
+C:\Users\acharpe\source\repos\HttpListnerServer\HttpListnerServer\bin\Debug\netcoreapp2.1\HttpListnerServer.runtimeconfig.json
+C:\Users\acharpe\source\repos\HttpListnerServer\HttpListnerServer\bin\Debug\netcoreapp2.1\HttpListnerServer.runtimeconfig.dev.json
+C:\Users\acharpe\source\repos\HttpListnerServer\HttpListnerServer\bin\Debug\netcoreapp2.1\HttpListnerServer.dll
+C:\Users\acharpe\source\repos\HttpListnerServer\HttpListnerServer\bin\Debug\netcoreapp2.1\HttpListnerServer.pdb
+C:\Users\acharpe\source\repos\HttpListnerServer\HttpListnerServer\obj\Debug\netcoreapp2.1\HttpListnerServer.csprojAssemblyReference.cache
+C:\Users\acharpe\source\repos\HttpListnerServer\HttpListnerServer\obj\Debug\netcoreapp2.1\HttpListnerServer.csproj.CoreCompileInputs.cache
+C:\Users\acharpe\source\repos\HttpListnerServer\HttpListnerServer\obj\Debug\netcoreapp2.1\HttpListnerServer.AssemblyInfoInputs.cache
+C:\Users\acharpe\source\repos\HttpListnerServer\HttpListnerServer\obj\Debug\netcoreapp2.1\HttpListnerServer.AssemblyInfo.cs
+C:\Users\acharpe\source\repos\HttpListnerServer\HttpListnerServer\obj\Debug\netcoreapp2.1\HttpListnerServer.dll
+C:\Users\acharpe\source\repos\HttpListnerServer\HttpListnerServer\obj\Debug\netcoreapp2.1\HttpListnerServer.pdb
